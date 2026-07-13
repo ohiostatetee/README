@@ -1,32 +1,42 @@
-# 👋 Hi, I'm Thomas Moore  
-### Automation & AI Evaluation Developer  
-**Brand:** Catatonix
+# 👋 Hi, I'm Thomas Moore — Catatonix
 
-I build tools that analyze reasoning consistency, automate micro‑task workflows, and support AI evaluation platforms. My work focuses on logic analysis, WebSocket automation, and structured feedback systems designed for high‑volume micro‑task environments.
+I build lightweight, high‑precision tools for AI evaluation, automation, and micro‑task workflows.  
+My engineering style is clean, minimal, and focused on producing reliable Python utilities that support reasoning analysis, RLHF pipelines, dataset labeling, and real‑time automation.
 
----
+## 🧠 Catatonix AI Evaluation Toolkit
+A suite of micro‑tools designed for clarity, consistency, and speed:
 
-## 🔧 Featured Projects
 ### 🧠 Logic Checker
-Consistency scoring and contradiction detection.
+Evaluates reasoning consistency and detects contradictions in structured responses.
 
 ### 🔌 WebSocket Bot
-Real‑time automation for micro‑task workflows.
+Real‑time automation and event‑driven workflow processing.
 
 ### 🤖 AI Evaluator
-Rubric‑based grading and structured feedback.
+Rubric‑based scoring for clarity, relevance, and structure in AI responses.
 
-### 🧪 Catatonix Portfolio
-Brand identity + curated project showcase.
+### 🟨 Micro Automation Tool
+Runs small, repeatable automation tasks with simple logging and task routing.
 
----
+### 🟪 Prompt Evaluator
+Analyzes prompt clarity, specificity, and optional response quality.
 
-## 📍 Location
-Dayton, OH
+### 🟥 Data Labeling Helper
+Interactive text labeling with clean JSON export for dataset creation.
 
-## 🧪 Brand Identity
-**Catatonix — Automation & AI Evaluation Tools**
+## 🎯 What I Focus On
+- AI evaluation tooling  
+- RLHF micro‑task workflows  
+- Automation pipelines  
+- WebSocket‑based systems  
+- Dataset labeling utilities  
+- Clean, minimal Python engineering  
 
-## 📫 Connect
-LinkedIn (coming soon)  
-uGig (coming soon)
+## 🚀 Engineering Philosophy
+Simple tools. Clear output. Zero noise.  
+Everything built for speed, reliability, and professional evaluation workflows.
+
+## 📫 Contact
+**Brand:** Catatonix  
+**GitHub:** https://github.com/Catatonix  
+**Email:** (add your email here)
